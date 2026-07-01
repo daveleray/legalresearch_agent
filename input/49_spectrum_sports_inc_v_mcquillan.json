@@ -1,0 +1,26 @@
+{
+  "bluebook_citation": "Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)",
+  "reporter": "506 U.S. 447",
+  "subject_matter_type": "antitrust",
+  "key_holdings": "No.  In a unanimous decision, Justice Byron R. White wrote the opinion of the court reversing the lower judgment.  The Supreme Court held that Spectrum is not liable without proof of a dangerous probability of monopolization and specific intent.  The Court held that although predatory conduct may be enough to prove intent, a dangerous probability of monopolization requires an analysis of the product involved, and the offender’s power in its geographic market.",
+  "venue_court": "Supreme Court of the United States",
+  "judge": "",
+  "winner": "unknown",
+  "full_text": "Shirley and Larry McQuillan were the southwest distributors for products made with sorbothane, a patented elastic polymer.  They had an agreement with the manufacturer to be one of five regional distributors.  Gradually, the manufacturer began to take away the McQuillan’s right to distribute certain types of products, eventually revoking their rights altogether.  The manufacturer only allowed one national distributor, Spectrum Sports, Inc., which was co-owned by the president of the manufacturer’s son.  When the McQuillan’s business failed, they sued Spectrum for violations of the Sherman Act.  The Sherman Act makes it a felony to monopolize, attempt to monopolize, or conspire to monopolize any part of the interstate commerce. The district court instructed the jury to infer specific intent and dangerous probability of monopolization if they found that Spectrum engaged in predatory conduct.  The jury found Spectrum guilty.  The U.S. Court of Appeals for the Ninth Circuit affirmed, holding that there was enough evidence to show specific intent and a dangerous probability of monopolization even if the jury only considered Spectrum’s predatory conduct.\n\nIs Spectrum liable for Sherman Act violations where the jury inferred intent and a dangerous possibility of success from Spectrum’s predatory conduct?\n\nNo.  In a unanimous decision, Justice Byron R. White wrote the opinion of the court reversing the lower judgment.  The Supreme Court held that Spectrum is not liable without proof of a dangerous probability of monopolization and specific intent.  The Court held that although predatory conduct may be enough to prove intent, a dangerous probability of monopolization requires an analysis of the product involved, and the offender’s power in its geographic market.",
+  "key_arguments": "Shirley and Larry McQuillan were the southwest distributors for products made with sorbothane, a patented elastic polymer.  They had an agreement with the manufacturer to be one of five regional distributors.  Gradually, the manufacturer began to take away the McQuillan’s right to distribute certain types of products, eventually revoking their rights altogether.  The manufacturer only allowed one national distributor, Spectrum Sports, Inc., which was co-owned by the president of the manufacturer’s son.  When the McQuillan’s business failed, they sued Spectrum for violations of the Sherman Act.  The Sherman Act makes it a felony to monopolize, attempt to monopolize, or conspire to monopolize any part of the interstate commerce. The district court instructed the jury to infer specific intent and dangerous probability of monopolization if they found that Spectrum engaged in predatory conduct.  The jury found Spectrum guilty.  The U.S. Court of Appeals for the Ninth Circuit affirmed, holding that there was enough evidence to show specific intent and a dangerous probability of monopolization even if the jury only considered Spectrum’s predatory conduct. | Is Spectrum liable for Sherman Act violations where the jury inferred intent and a dangerous possibility of success from Spectrum’s predatory conduct?",
+  "source_url": "https://api.oyez.org/cases/1992/91-10",
+  "case_name": "Spectrum Sports, Inc. v. McQuillan",
+  "majority_justices": [
+    "Byron R. White",
+    "Harry A. Blackmun",
+    "William H. Rehnquist",
+    "John Paul Stevens",
+    "Sandra Day O'Connor",
+    "Antonin Scalia",
+    "Anthony M. Kennedy",
+    "David H. Souter",
+    "Clarence Thomas"
+  ],
+  "dissenting_justices": [],
+  "concurring_justices": []
+}

@@ -1,0 +1,25 @@
+{
+  "bluebook_citation": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)",
+  "reporter": "547 U.S. 1",
+  "subject_matter_type": "antitrust",
+  "key_holdings": "No. In an 8-0 decision (Justice Alito not participating), the Court ruled that the per se rule against price-fixing should not be applied to price-setting by joint ventures. The opinion by Justice Clarence Thomas held that \"though Equilon's pricing policy may be price fixing in a literal sense, it is not price fixing in the antitrust sense.\" The Court distinguished 'horizontal' price-fixing schemes between competitors, which are per se illegal, from the \"internal pricing decisions of a legitimate joint venture,\" which are not.",
+  "venue_court": "Supreme Court of the United States",
+  "judge": "Clarence Thomas",
+  "winner": "unknown",
+  "full_text": "In 1998, Texaco and Shell Oil agreed to stop competing for the U.S. oil market. The two companies formed a joint venture, Equilon Enterprises, which would manage the refining and marketing of gasoline in the western United States. The joint venture was charged with setting prices for Texaco and Shell gasoline, which would be sold under the original brand names. When Equilon set the same price for both brands, Dagher and other service station owners sued under Section 1 of the Sherman Antitrust Act, alleging that Equilon was engaging in illegal price-fixing. The dispute turned on whether Equilon's actions fell under the Sherman Act's per se rule against price-fixing, under which all such instances of price-fixing by joint ventures would be illegal without regard to the specific harm caused in any particular case. The District Court granted summary judgment for Texaco, holding that the per se rule did not apply to the price-setting engaged in by Equilon. The District Judge reasoned that all enterprises, including joint ventures, must eventually set prices for their products. Therefore Equilon was merely engaged in a normal business practice, not the type of unreasonable, anticompetitive price-fixing that would run afoul of the Supreme Court's non-literal interpretation of the Sherman Act. The Ninth Circuit Court of Appeals reversed, ruling that Equilon's actions constituted price-fixing under the Sherman Act's per se rule and therefore could not be legal.\n\nDoes Section 1 of the Sherman Act always prohibit a lawful joint venture from setting the prices at which its goods will be sold?\n\nNo. In an 8-0 decision (Justice Alito not participating), the Court ruled that the per se rule against price-fixing should not be applied to price-setting by joint ventures. The opinion by Justice Clarence Thomas held that \"though Equilon's pricing policy may be price fixing in a literal sense, it is not price fixing in the antitrust sense.\" The Court distinguished 'horizontal' price-fixing schemes between competitors, which are per se illegal, from the \"internal pricing decisions of a legitimate joint venture,\" which are not.",
+  "key_arguments": "In 1998, Texaco and Shell Oil agreed to stop competing for the U.S. oil market. The two companies formed a joint venture, Equilon Enterprises, which would manage the refining and marketing of gasoline in the western United States. The joint venture was charged with setting prices for Texaco and Shell gasoline, which would be sold under the original brand names. When Equilon set the same price for both brands, Dagher and other service station owners sued under Section 1 of the Sherman Antitrust Act, alleging that Equilon was engaging in illegal price-fixing. The dispute turned on whether Equilon's actions fell under the Sherman Act's per se rule against price-fixing, under which all such instances of price-fixing by joint ventures would be illegal without regard to the specific harm caused in any particular case. The District Court granted summary judgment for Texaco, holding that the per se rule did not apply to the price-setting engaged in by Equilon. The District Judge reasoned that all enterprises, including joint ventures, must eventually set prices for their products. Therefore Equilon was merely engaged in a normal business practice, not the type of unreasonable, anticompetitive price-fixing that would run afoul of the Supreme Court's non-literal interpretation of the Sherman Act. The Ninth Circuit Court of Appeals reversed, ruling that Equilon's actions constituted price-fixing under the Sherman Act's per se rule and therefore could not be legal. | Does Section 1 of the Sherman Act always prohibit a lawful joint venture from setting the prices at which its goods will be sold?",
+  "source_url": "https://api.oyez.org/cases/2005/04-805",
+  "case_name": "Texaco Inc. v. Dagher",
+  "majority_justices": [
+    "John Paul Stevens",
+    "Antonin Scalia",
+    "Anthony M. Kennedy",
+    "David H. Souter",
+    "Clarence Thomas",
+    "Ruth Bader Ginsburg",
+    "Stephen G. Breyer",
+    "John G. Roberts, Jr."
+  ],
+  "dissenting_justices": [],
+  "concurring_justices": []
+}

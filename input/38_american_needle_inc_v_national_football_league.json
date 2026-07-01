@@ -1,0 +1,26 @@
+{
+  "bluebook_citation": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)",
+  "reporter": "560 U.S. 183",
+  "subject_matter_type": "antitrust",
+  "key_holdings": "No. Yes. The Supreme Court held that the National Football League's licensing of intellectual property in this case constitutes concerted action that is not categorically beyond Section 1 of the Sherman Antitrust Act's coverage. With Justice John Paul Stevens writing for a unanimous Court, it noted that each NFL team is a substantial, independently owned, and independently managed business, whose objectives are not common. The Court reasoned that while the actions of NFL Properties (\"NFLP\") are not as easily classified as concerted activity, the NFLP's decisions about licensing are a concerted activity and, thus, are covered by Section 1.",
+  "venue_court": "Supreme Court of the United States",
+  "judge": "John Paul Stevens",
+  "winner": "unknown",
+  "full_text": "American Needle Inc. filed suit in an Illinois federal district court against the National Football League (\"NFL\") and Reebok International Ltd. alleging that the teams' exclusive licensing agreement with Reebok violated the Sherman Antitrust Act. American Needle argued that because individual NFL teams separately own their team logos and trademarks, their collective agreement to authorize NFL Properties to award the exclusive headwear license to Reebok, was in fact a conspiracy to restrict other vendors' ability to obtain licenses for the teams' intellectual property. The district court disagreed and dismissed the case. On appeal, the U.S. Court of Appeals for the Seventh Circuit affirmed. It held that NFL teams were a single entity for purposes of antitrust laws, and thus could not have conspired to restrict trade. Therefore, the court stated that the teams were free to license their intellectual property on an exclusive basis.\n\n1) Are the NFL and its members a single entity for the purposes of antitrust laws? 2) Is the agreement of NFL teams with Reebok subject to Section 1 of the Sherman Antitrust Act, when teams own and control the use of their separate logos and trademarks and, but for their agreement not to, could compete with each other in the licensing and sale of team products?\n\nNo. Yes. The Supreme Court held that the National Football League's licensing of intellectual property in this case constitutes concerted action that is not categorically beyond Section 1 of the Sherman Antitrust Act's coverage. With Justice John Paul Stevens writing for a unanimous Court, it noted that each NFL team is a substantial, independently owned, and independently managed business, whose objectives are not common. The Court reasoned that while the actions of NFL Properties (\"NFLP\") are not as easily classified as concerted activity, the NFLP's decisions about licensing are a concerted activity and, thus, are covered by Section 1.",
+  "key_arguments": "American Needle Inc. filed suit in an Illinois federal district court against the National Football League (\"NFL\") and Reebok International Ltd. alleging that the teams' exclusive licensing agreement with Reebok violated the Sherman Antitrust Act. American Needle argued that because individual NFL teams separately own their team logos and trademarks, their collective agreement to authorize NFL Properties to award the exclusive headwear license to Reebok, was in fact a conspiracy to restrict other vendors' ability to obtain licenses for the teams' intellectual property. The district court disagreed and dismissed the case. On appeal, the U.S. Court of Appeals for the Seventh Circuit affirmed. It held that NFL teams were a single entity for purposes of antitrust laws, and thus could not have conspired to restrict trade. Therefore, the court stated that the teams were free to license their intellectual property on an exclusive basis. | 1) Are the NFL and its members a single entity for the purposes of antitrust laws? 2) Is the agreement of NFL teams with Reebok subject to Section 1 of the Sherman Antitrust Act, when teams own and control the use of their separate logos and trademarks and, but for their agreement not to, could compete with each other in the licensing and sale of team products?",
+  "source_url": "https://api.oyez.org/cases/2009/08-661",
+  "case_name": "American Needle Inc. v. National Football League",
+  "majority_justices": [
+    "John G. Roberts, Jr.",
+    "John Paul Stevens",
+    "Antonin Scalia",
+    "Anthony M. Kennedy",
+    "Clarence Thomas",
+    "Ruth Bader Ginsburg",
+    "Stephen G. Breyer",
+    "Samuel A. Alito, Jr.",
+    "Sonia Sotomayor"
+  ],
+  "dissenting_justices": [],
+  "concurring_justices": []
+}

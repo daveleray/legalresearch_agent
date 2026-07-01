@@ -1,0 +1,6 @@
+neo4j/
+neo4j.zip
+__pycache__/
+*.pyc
+.venv/
+venv/

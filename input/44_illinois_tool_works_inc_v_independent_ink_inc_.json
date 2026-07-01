@@ -1,0 +1,25 @@
+{
+  "bluebook_citation": "Illinois Tool Works Inc. v. Independent Ink, Inc., 547 U.S. 28 (2006)",
+  "reporter": "547 U.S. 28",
+  "subject_matter_type": "antitrust",
+  "key_holdings": "No. The Supreme Court unanimously decided that the burden was on the party claiming an anti-trust violation to show that the defendant had the power to raise prices above market rates. Justice John Paul Stevens, who wrote the opinion, rejected the rule used in International Salt Company v. United States , 332 U.S. 392, that the assumption should be made that such power existed. Stevens wrote, \"The question presented to us today is whether the presumption of market power in a patented product should survive as a matter of antitrust law despite its demise in patent law. We conclude that the mere fact that a tying product is patented does not support such a presumption.\"",
+  "venue_court": "Supreme Court of the United States",
+  "judge": "John Paul Stevens",
+  "winner": "unknown",
+  "full_text": "Independent Ink manufactured printing ink that was compatible with the printheads manufactured by (and patented by) Trident, a company owned by Illinois Tool Works. Trident, however, required that anyone who used their printheads also use their ink, which was not patented. Independent Ink brought suit in federal district court under the Sherman Act, which forbids companies from tying a license to use one product (in this case Trident's printheads) to a customer's agreement to use another product (Trident's ink). The district court ruled in favor of Trident, finding that Independent Ink had failed to show that Trident's control of the printhead allowed them to raise prices above the competitive market rate. The United States Court of Appeals for the Federal Circuit reversed, however, finding that when the product for which a license is granted is under patent, the ability to raise prices of that product above market rates must be assumed, and the burden is on the defendant to show that such power did not exist.\n\nUnder the Sherman Act, when the license to use a patented product is tied to a customer's agreement to use a separate non-patented product, is it assumed that the manufacturer of the patented product has the ability to raise prices above market rates?\n\nNo. The Supreme Court unanimously decided that the burden was on the party claiming an anti-trust violation to show that the defendant had the power to raise prices above market rates. Justice John Paul Stevens, who wrote the opinion, rejected the rule used in International Salt Company v. United States , 332 U.S. 392, that the assumption should be made that such power existed. Stevens wrote, \"The question presented to us today is whether the presumption of market power in a patented product should survive as a matter of antitrust law despite its demise in patent law. We conclude that the mere fact that a tying product is patented does not support such a presumption.\"",
+  "key_arguments": "Independent Ink manufactured printing ink that was compatible with the printheads manufactured by (and patented by) Trident, a company owned by Illinois Tool Works. Trident, however, required that anyone who used their printheads also use their ink, which was not patented. Independent Ink brought suit in federal district court under the Sherman Act, which forbids companies from tying a license to use one product (in this case Trident's printheads) to a customer's agreement to use another product (Trident's ink). The district court ruled in favor of Trident, finding that Independent Ink had failed to show that Trident's control of the printhead allowed them to raise prices above the competitive market rate. The United States Court of Appeals for the Federal Circuit reversed, however, finding that when the product for which a license is granted is under patent, the ability to raise prices of that product above market rates must be assumed, and the burden is on the defendant to show that such power did not exist. | Under the Sherman Act, when the license to use a patented product is tied to a customer's agreement to use a separate non-patented product, is it assumed that the manufacturer of the patented product has the ability to raise prices above market rates?",
+  "source_url": "https://api.oyez.org/cases/2005/04-1329",
+  "case_name": "Illinois Tool Works Inc. v. Independent Ink, Inc.",
+  "majority_justices": [
+    "John Paul Stevens",
+    "Antonin Scalia",
+    "Anthony M. Kennedy",
+    "David H. Souter",
+    "Clarence Thomas",
+    "Ruth Bader Ginsburg",
+    "Stephen G. Breyer",
+    "John G. Roberts, Jr."
+  ],
+  "dissenting_justices": [],
+  "concurring_justices": []
+}

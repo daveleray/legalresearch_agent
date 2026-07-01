@@ -1,0 +1,14 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "bash $HOME/lq-assess-work/ASMT-02b2dbd7/.claude/skills/lq-assess/scripts/statusline-logger.sh"
+  },
+  "model": "sonnet",
+  "verbose": true,
+  "permissions": {
+    "defaultMode": "bypassPermissions"
+  },
+  "env": {
+    "CLAUDE_CODE_ENABLE_PROMPT_SUGGESTION": "false"
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "query_id": "Q001",
+    "query": "What are the leading authorities for predatory pricing? Give me a short memo.",
+    "subject_matter": "antitrust",
+    "expected_case_names": [
+      "Brooke Group Ltd. v. Brown & Williamson Tobacco Corporation",
+      "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc."
+    ],
+    "expected_reporter_fragments": ["509 U.S. 209", "549 U.S. 312"],
+    "key_holding_phrases": [
+      "below-cost pricing",
+      "recoupment",
+      "predatory bidding",
+      "price below an appropriate measure of cost"
+    ],
+    "notes": "Brooke Group is the foundational two-part test (below-cost + recoupment). Weyerhaeuser extends Brooke Group to predatory bidding on the buy side."
+  },
+  {
+    "query_id": "Q002",
+    "query": "What must a plaintiff prove to establish monopolization under Section 2 of the Sherman Act?",
+    "subject_matter": "antitrust",
+    "expected_case_names": [
+      "Aspen Skiing Company v. Aspen Highlands Skiing Corporation",
+      "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP",
+      "Spectrum Sports, Inc. v. McQuillan"
+    ],
+    "expected_reporter_fragments": ["472 U.S. 585", "540 U.S. 398", "506 U.S. 447"],
+    "key_holding_phrases": [
+      "monopoly power",
+      "willful acquisition or maintenance",
+      "relevant market",
+      "dangerous probability",
+      "refusal to deal"
+    ],
+    "notes": "Aspen Skiing on refusal to deal; Trinko on limits of refusal-to-deal liability; Spectrum Sports on attempt-to-monopolize (dangerous probability test)."
+  },
+  {
+    "query_id": "Q003",
+    "query": "When is resale price maintenance (RPM) per se illegal? What is the current standard?",
+    "subject_matter": "antitrust",
+    "expected_case_names": [
+      "Leegin Creative Leather Products, Inc. v. PSKS, Inc."
+    ],
+    "expected_reporter_fragments": ["551 U.S. 877"],
+    "key_holding_phrases": [
+      "rule of reason",
+      "per se",
+      "vertical",
+      "minimum resale price",
+      "Dr. Miles"
+    ],
+    "notes": "Leegin overruled Dr. Miles Medical Co. v. John D. Park & Sons Co. (1911) and held that vertical minimum RPM agreements are judged under the rule of reason, not per se illegal."
+  },
+  {
+    "query_id": "Q004",
+    "query": "What is the state action doctrine in antitrust and when does it immunize private conduct?",
+    "subject_matter": "antitrust",
+    "expected_case_names": [
+      "North Carolina Board of Dental Examiners v. Federal Trade Commission",
+      "FTC v. Phoebe Putney Health System"
+    ],
+    "expected_reporter_fragments": ["574 U.S. 494", "568 U.S. 216"],
+    "key_holding_phrases": [
+      "active supervision",
+      "clearly articulated",
+      "state policy",
+      "Parker immunity",
+      "nonsovereign"
+    ],
+    "notes": "NC Dental: active supervision required when regulatory board controlled by active market participants. Phoebe Putney: clear articulation prong requires foreseeability of anticompetitive effect."
+  },
+  {
+    "query_id": "Q005",
+    "query": "How has the Supreme Court analyzed antitrust claims in two-sided markets?",
+    "subject_matter": "antitrust",
+    "expected_case_names": [
+      "Ohio v. American Express Co.",
+      "Apple v. Pepper"
+    ],
+    "expected_reporter_fragments": ["585 U.S. 529", ""],
+    "key_holding_phrases": [
+      "two-sided",
+      "transaction platform",
+      "market power",
+      "anti-steering",
+      "direct purchaser"
+    ],
+    "notes": "Ohio v. Amex: two-sided transaction platforms must be evaluated as a whole; anti-steering provisions not anticompetitive when procompetitive effects outweigh harm. Apple v. Pepper: direct purchaser standing (Illinois Brick) applies to app store buyers."
+  },
+  {
+    "query_id": "Q006",
+    "query": "What pleading standard applies to antitrust conspiracy claims under Section 1?",
+    "subject_matter": "antitrust",
+    "expected_case_names": [
+      "Bell Atlantic Corp. v. Twombly"
+    ],
+    "expected_reporter_fragments": ["550 U.S. 544"],
+    "key_holding_phrases": [
+      "plausible",
+      "parallel conduct",
+      "plus factors",
+      "Conley",
+      "conspiracy"
+    ],
+    "notes": "Twombly replaced Conley's notice-pleading standard with plausibility pleading for antitrust conspiracy claims; parallel conduct alone insufficient without plus factors."
+  },
+  {
+    "query_id": "Q007",
+    "query": "Can an NCAA rule restricting athlete compensation violate antitrust law?",
+    "subject_matter": "antitrust",
+    "expected_case_names": [
+      "National Collegiate Athletic Association v. Alston"
+    ],
+    "expected_reporter_fragments": ["594 U.S. 69"],
+    "key_holding_phrases": [
+      "rule of reason",
+      "education-related benefits",
+      "consumer welfare",
+      "restraint of trade",
+      "procompetitive"
+    ],
+    "notes": "Unanimous Alston decision: NCAA rules limiting education-related compensation violate Sherman Act § 1 under rule of reason; Court declined to apply a special standard for amateur sports."
+  }
+]

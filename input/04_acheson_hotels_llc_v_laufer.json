@@ -1,0 +1,26 @@
+{
+  "bluebook_citation": "Acheson Hotels, LLC v. Laufer",
+  "reporter": "U.S.",
+  "subject_matter_type": "",
+  "key_holdings": "The Court vacated the case as moot because Laufer voluntarily dismissed her pending suits in lower courts with prejudice due to serious misconduct by her lawyers. Justice Amy Coney Barrett authored the majority opinion of the court vacating the case as moot and declining, despite Acheson’s request to the contrary, to resolve the still-live circuit split on the question of standing. Justice Clarence Thomas authored an opinion concurring in the judgment arguing that he would reach the standing issue and resolve that question in the negative. Justice Ketanji Brown Jackson author an opinion concurring in the judgment, explaining that she concurs only because of the Court’s precedent of vacating the judgment of the Court of Appeals below “when mootness occurs through . . . the unilateral action of the party who prevailed in the lower court.” In her view, however, vacatur is not appropriate in situations, as here, where the parties did not provide any equitable basis for vacatur.",
+  "venue_court": "Supreme Court of the United States",
+  "judge": "Amy Coney Barrett",
+  "winner": "petitioner",
+  "full_text": "Deborah Laufer, a prolific litigant with physical disabilities and vision impairments, sued Acheson Hotels for failing to publish information about their accessibility on their website, which is required under the Americans with Disabilities Act (ADA). The district court dismissed the lawsuit, finding that Laufer lacked standing to sue because had no plans to visit the hotel and thus suffered no injury as a result of the lack of information on the website. The U.S. Court of Appeals for the First Circuit reversed, concluding that Laufer’s lack of intent to book a room at the hotel operated by Acheson does not negate the fact of injury.\n\nDoes an ADA “tester” have Article III standing to challenge a hotel’s failure to provide disability accessibility information on its website, even if she has no plans to visit the hotel?\n\nThe Court vacated the case as moot because Laufer voluntarily dismissed her pending suits in lower courts with prejudice due to serious misconduct by her lawyers. Justice Amy Coney Barrett authored the majority opinion of the court vacating the case as moot and declining, despite Acheson’s request to the contrary, to resolve the still-live circuit split on the question of standing. Justice Clarence Thomas authored an opinion concurring in the judgment arguing that he would reach the standing issue and resolve that question in the negative. Justice Ketanji Brown Jackson author an opinion concurring in the judgment, explaining that she concurs only because of the Court’s precedent of vacating the judgment of the Court of Appeals below “when mootness occurs through . . . the unilateral action of the party who prevailed in the lower court.” In her view, however, vacatur is not appropriate in situations, as here, where the parties did not provide any equitable basis for vacatur.",
+  "key_arguments": "Deborah Laufer, a prolific litigant with physical disabilities and vision impairments, sued Acheson Hotels for failing to publish information about their accessibility on their website, which is required under the Americans with Disabilities Act (ADA). The district court dismissed the lawsuit, finding that Laufer lacked standing to sue because had no plans to visit the hotel and thus suffered no injury as a result of the lack of information on the website. The U.S. Court of Appeals for the First Circuit reversed, concluding that Laufer’s lack of intent to book a room at the hotel operated by Acheson does not negate the fact of injury. | Does an ADA “tester” have Article III standing to challenge a hotel’s failure to provide disability accessibility information on its website, even if she has no plans to visit the hotel?",
+  "source_url": "https://api.oyez.org/cases/2023/22-429",
+  "case_name": "Acheson Hotels, LLC v. Laufer",
+  "majority_justices": [
+    "Amy Coney Barrett",
+    "John G. Roberts, Jr.",
+    "Clarence Thomas",
+    "Samuel A. Alito, Jr.",
+    "Sonia Sotomayor",
+    "Elena Kagan",
+    "Neil Gorsuch",
+    "Brett M. Kavanaugh",
+    "Ketanji Brown Jackson"
+  ],
+  "dissenting_justices": [],
+  "concurring_justices": []
+}

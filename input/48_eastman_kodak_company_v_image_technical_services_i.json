@@ -1,0 +1,27 @@
+{
+  "bluebook_citation": "Eastman Kodak Company v. Image Technical Services., Inc., 504 U.S. 451 (1992)",
+  "reporter": "504 U.S. 451",
+  "subject_matter_type": "antitrust",
+  "key_holdings": "",
+  "venue_court": "Supreme Court of the United States",
+  "judge": "",
+  "winner": "unknown",
+  "full_text": "",
+  "key_arguments": "",
+  "source_url": "https://api.oyez.org/cases/1991/90-1029",
+  "case_name": "Eastman Kodak Company v. Image Technical Services., Inc.",
+  "majority_justices": [
+    "Byron R. White",
+    "Harry A. Blackmun",
+    "William H. Rehnquist",
+    "John Paul Stevens",
+    "Anthony M. Kennedy",
+    "David H. Souter"
+  ],
+  "dissenting_justices": [
+    "Sandra Day O'Connor",
+    "Antonin Scalia",
+    "Clarence Thomas"
+  ],
+  "concurring_justices": []
+}

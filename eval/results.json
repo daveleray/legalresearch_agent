@@ -1,0 +1,1229 @@
+{
+  "run_id": "2026-07-01T01:21:08.071319+00:00",
+  "queries": [
+    {
+      "query_id": "Q001",
+      "query": "What are the leading authorities for predatory pricing? Give me a short memo.",
+      "approaches": {
+        "sqlite_keyword": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.25,
+            "composite": 0.292,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 1,
+            "phrase_hits": 1,
+            "phrase_total": 4
+          },
+          "retrieved": [
+            {
+              "case_name": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc., ",
+              "reporter": "549 U.S. 312",
+              "bluebook": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc., 549 U.S. 3"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)",
+              "reporter": "568 U.S. 216",
+              "bluebook": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)",
+              "reporter": "506 U.S. 447",
+              "bluebook": "Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)"
+            }
+          ]
+        },
+        "neo4j_subject": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.25,
+            "composite": 0.292,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 1,
+            "phrase_hits": 1,
+            "phrase_total": 4
+          },
+          "retrieved": [
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc.",
+              "reporter": "549 U.S. 312",
+              "bluebook": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc., 549 U.S. 3"
+            },
+            {
+              "case_name": "FTC v. Phoebe Putney Health System",
+              "reporter": "568 U.S. 216",
+              "bluebook": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "Texaco Inc. v. Dagher",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            }
+          ]
+        },
+        "neo4j_fulltext": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.25,
+            "composite": 0.292,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 1,
+            "phrase_hits": 1,
+            "phrase_total": 4
+          },
+          "retrieved": [
+            {
+              "case_name": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc.",
+              "reporter": "549 U.S. 312",
+              "bluebook": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc., 549 U.S. 3"
+            },
+            {
+              "case_name": "FTC v. Phoebe Putney Health System",
+              "reporter": "568 U.S. 216",
+              "bluebook": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)"
+            },
+            {
+              "case_name": "Spectrum Sports, Inc. v. McQuillan",
+              "reporter": "506 U.S. 447",
+              "bluebook": "Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Texaco Inc. v. Dagher",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            }
+          ]
+        },
+        "combined": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.25,
+            "composite": 0.292,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 1,
+            "phrase_hits": 1,
+            "phrase_total": 4
+          },
+          "retrieved": [
+            {
+              "case_name": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc., ",
+              "reporter": "549 U.S. 312",
+              "bluebook": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc., 549 U.S. 3"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)",
+              "reporter": "568 U.S. 216",
+              "bluebook": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)"
+            },
+            {
+              "case_name": "Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)",
+              "reporter": "506 U.S. 447",
+              "bluebook": "Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)"
+            },
+            {
+              "case_name": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q002",
+      "query": "What must a plaintiff prove to establish monopolization under Section 2 of the Sherman Act?",
+      "approaches": {
+        "sqlite_keyword": {
+          "scores": {
+            "citation_recall": 0.333,
+            "citation_precision": 0.0,
+            "citation_f1": 0.0,
+            "holding_coverage": 0.0,
+            "composite": 0.0,
+            "expected_total": 3,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 0,
+            "phrase_hits": 0,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League, 560 U.S. 1",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.",
+              "reporter": "551 U.S. 877",
+              "bluebook": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.S. 877 (20"
+            }
+          ]
+        },
+        "neo4j_subject": {
+          "scores": {
+            "citation_recall": 0.333,
+            "citation_precision": 0.0,
+            "citation_f1": 0.0,
+            "holding_coverage": 0.0,
+            "composite": 0.0,
+            "expected_total": 3,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 0,
+            "phrase_hits": 0,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            }
+          ]
+        },
+        "neo4j_fulltext": {
+          "scores": {
+            "citation_recall": 0.667,
+            "citation_precision": 0.2,
+            "citation_f1": 0.308,
+            "holding_coverage": 0.2,
+            "composite": 0.254,
+            "expected_total": 3,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 1,
+            "phrase_hits": 1,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "Spectrum Sports, Inc. v. McQuillan",
+              "reporter": "506 U.S. 447",
+              "bluebook": "Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+              "reporter": "551 U.S. 877",
+              "bluebook": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.S. 877 (20"
+            }
+          ]
+        },
+        "combined": {
+          "scores": {
+            "citation_recall": 0.333,
+            "citation_precision": 0.0,
+            "citation_f1": 0.0,
+            "holding_coverage": 0.0,
+            "composite": 0.0,
+            "expected_total": 3,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 0,
+            "phrase_hits": 0,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League, 560 U.S. 1",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.",
+              "reporter": "551 U.S. 877",
+              "bluebook": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.S. 877 (20"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q003",
+      "query": "When is resale price maintenance (RPM) per se illegal? What is the current standard?",
+      "approaches": {
+        "sqlite_keyword": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 1.0,
+            "composite": 0.667,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 5,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.",
+              "reporter": "551 U.S. 877",
+              "bluebook": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.S. 877 (20"
+            },
+            {
+              "case_name": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            },
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 ",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League, 560 U.S. 1",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            }
+          ]
+        },
+        "neo4j_subject": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.8,
+            "composite": 0.567,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 4,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "Texaco Inc. v. Dagher",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+              "reporter": "551 U.S. 877",
+              "bluebook": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.S. 877 (20"
+            }
+          ]
+        },
+        "neo4j_fulltext": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.8,
+            "composite": 0.567,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 4,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Texaco Inc. v. Dagher",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            },
+            {
+              "case_name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+              "reporter": "551 U.S. 877",
+              "bluebook": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.S. 877 (20"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            }
+          ]
+        },
+        "combined": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 1.0,
+            "composite": 0.667,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 5,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            },
+            {
+              "case_name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.",
+              "reporter": "551 U.S. 877",
+              "bluebook": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U.S. 877 (20"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 ",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q004",
+      "query": "What is the state action doctrine in antitrust and when does it immunize private conduct?",
+      "approaches": {
+        "sqlite_keyword": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.4,
+            "citation_f1": 0.571,
+            "holding_coverage": 1.0,
+            "composite": 0.786,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 2,
+            "phrase_hits": 5,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "North Carolina Board of Dental Examiners v. Federal Trade Co",
+              "reporter": "574 U.S. 494",
+              "bluebook": "North Carolina Board of Dental Examiners v. Federal Trade Commission, "
+            },
+            {
+              "case_name": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)",
+              "reporter": "568 U.S. 216",
+              "bluebook": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)"
+            },
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 ",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League, 560 U.S. 1",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            }
+          ]
+        },
+        "neo4j_subject": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.4,
+            "citation_f1": 0.571,
+            "holding_coverage": 0.4,
+            "composite": 0.486,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 2,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            },
+            {
+              "case_name": "North Carolina Board of Dental Examiners v. Federal Trade Co",
+              "reporter": "574 U.S. 494",
+              "bluebook": "North Carolina Board of Dental Examiners v. Federal Trade Commission, "
+            },
+            {
+              "case_name": "FTC v. Phoebe Putney Health System",
+              "reporter": "568 U.S. 216",
+              "bluebook": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)"
+            }
+          ]
+        },
+        "neo4j_fulltext": {
+          "scores": {
+            "citation_recall": 0.5,
+            "citation_precision": 0.2,
+            "citation_f1": 0.286,
+            "holding_coverage": 0.4,
+            "composite": 0.343,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            },
+            {
+              "case_name": "North Carolina Board of Dental Examiners v. Federal Trade Co",
+              "reporter": "574 U.S. 494",
+              "bluebook": "North Carolina Board of Dental Examiners v. Federal Trade Commission, "
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            }
+          ]
+        },
+        "combined": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.4,
+            "citation_f1": 0.571,
+            "holding_coverage": 1.0,
+            "composite": 0.786,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 2,
+            "phrase_hits": 5,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "North Carolina Board of Dental Examiners v. Federal Trade Co",
+              "reporter": "574 U.S. 494",
+              "bluebook": "North Carolina Board of Dental Examiners v. Federal Trade Commission, "
+            },
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 ",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League, 560 U.S. 1",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)",
+              "reporter": "568 U.S. 216",
+              "bluebook": "FTC v. Phoebe Putney Health System, 568 U.S. 216 (2013)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q005",
+      "query": "How has the Supreme Court analyzed antitrust claims in two-sided markets?",
+      "approaches": {
+        "sqlite_keyword": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 1.0,
+            "citation_f1": 1.0,
+            "holding_coverage": 0.6,
+            "composite": 0.8,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 5,
+            "phrase_hits": 3,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            }
+          ]
+        },
+        "neo4j_subject": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 1.0,
+            "citation_f1": 1.0,
+            "holding_coverage": 0.4,
+            "composite": 0.7,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 5,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            }
+          ]
+        },
+        "neo4j_fulltext": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 1.0,
+            "citation_f1": 1.0,
+            "holding_coverage": 0.4,
+            "composite": 0.7,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 5,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            }
+          ]
+        },
+        "combined": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 1.0,
+            "citation_f1": 1.0,
+            "holding_coverage": 0.6,
+            "composite": 0.8,
+            "expected_total": 2,
+            "returned_total": 5,
+            "hits_recall": 2,
+            "hits_precision": 5,
+            "phrase_hits": 3,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q006",
+      "query": "What pleading standard applies to antitrust conspiracy claims under Section 1?",
+      "approaches": {
+        "sqlite_keyword": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.4,
+            "citation_f1": 0.571,
+            "holding_coverage": 0.8,
+            "composite": 0.686,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 2,
+            "phrase_hits": 4,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League, 560 U.S. 1",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            }
+          ]
+        },
+        "neo4j_subject": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.4,
+            "composite": 0.367,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "AMG Capital Management, LLC v. Federal Trade Commission",
+              "reporter": "U.S.",
+              "bluebook": "AMG Capital Management, LLC v. Federal Trade Commission"
+            },
+            {
+              "case_name": "Apple v. Pepper",
+              "reporter": "U.S.",
+              "bluebook": "Apple v. Pepper"
+            }
+          ]
+        },
+        "neo4j_fulltext": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.4,
+            "citation_f1": 0.571,
+            "holding_coverage": 0.4,
+            "composite": 0.486,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 2,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc.",
+              "reporter": "549 U.S. 312",
+              "bluebook": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co., Inc., 549 U.S. 3"
+            }
+          ]
+        },
+        "combined": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.4,
+            "citation_f1": 0.571,
+            "holding_coverage": 0.8,
+            "composite": 0.686,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 2,
+            "phrase_hits": 4,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+              "reporter": "550 U.S. 544",
+              "bluebook": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+            },
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "American Needle Inc. v. National Football League, 560 U.S. 1",
+              "reporter": "560 U.S. 183",
+              "bluebook": "American Needle Inc. v. National Football League, 560 U.S. 183 (2010)"
+            },
+            {
+              "case_name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+              "reporter": "U.S.",
+              "bluebook": "Pacific Bell Telephone Co. v. LinkLine Communications"
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "query_id": "Q007",
+      "query": "Can an NCAA rule restricting athlete compensation violate antitrust law?",
+      "approaches": {
+        "sqlite_keyword": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.4,
+            "composite": 0.367,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            },
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 ",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "FTC v. Actavis Inc., 570 U.S. 136 (2013)",
+              "reporter": "570 U.S. 136",
+              "bluebook": "FTC v. Actavis Inc., 570 U.S. 136 (2013)"
+            }
+          ]
+        },
+        "neo4j_subject": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.4,
+            "composite": 0.367,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "AMG Capital Management, LLC v. Federal Trade Commission",
+              "reporter": "U.S.",
+              "bluebook": "AMG Capital Management, LLC v. Federal Trade Commission"
+            },
+            {
+              "case_name": "FTC v. Actavis Inc.",
+              "reporter": "570 U.S. 136",
+              "bluebook": "FTC v. Actavis Inc., 570 U.S. 136 (2013)"
+            }
+          ]
+        },
+        "neo4j_fulltext": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.4,
+            "composite": 0.367,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "Texaco Inc. v. Dagher",
+              "reporter": "547 U.S. 1",
+              "bluebook": "Texaco Inc. v. Dagher, 547 U.S. 1 (2006)"
+            },
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            }
+          ]
+        },
+        "combined": {
+          "scores": {
+            "citation_recall": 1.0,
+            "citation_precision": 0.2,
+            "citation_f1": 0.333,
+            "holding_coverage": 0.4,
+            "composite": 0.367,
+            "expected_total": 1,
+            "returned_total": 5,
+            "hits_recall": 1,
+            "hits_precision": 1,
+            "phrase_hits": 2,
+            "phrase_total": 5
+          },
+          "retrieved": [
+            {
+              "case_name": "National Collegiate Athletic Association v. Alston",
+              "reporter": "U.S.",
+              "bluebook": "National Collegiate Athletic Association v. Alston"
+            },
+            {
+              "case_name": "Ohio v. American Express Co.",
+              "reporter": "U.S.",
+              "bluebook": "Ohio v. American Express Co."
+            },
+            {
+              "case_name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Tri",
+              "reporter": "540 U.S. 398",
+              "bluebook": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP, "
+            },
+            {
+              "case_name": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 ",
+              "reporter": "551 U.S. 264",
+              "bluebook": "Credit Suisse Securities (USA) LLC v. Billing, 551 U.S. 264 (2007)"
+            },
+            {
+              "case_name": "FTC v. Actavis Inc., 570 U.S. 136 (2013)",
+              "reporter": "570 U.S. 136",
+              "bluebook": "FTC v. Actavis Inc., 570 U.S. 136 (2013)"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "sqlite_keyword": 0.514,
+    "neo4j_subject": 0.397,
+    "neo4j_fulltext": 0.43,
+    "combined": 0.514
+  }
+}
